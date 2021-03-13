@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeStruct", "TreeStruct.csproj", "{49F75587-2377-4EA5-9663-E26433F6FDAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49F75587-2377-4EA5-9663-E26433F6FDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F75587-2377-4EA5-9663-E26433F6FDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F75587-2377-4EA5-9663-E26433F6FDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F75587-2377-4EA5-9663-E26433F6FDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BA9128E-3828-4035-866F-25951BDC8C4A}
+	EndGlobalSection
+EndGlobal
